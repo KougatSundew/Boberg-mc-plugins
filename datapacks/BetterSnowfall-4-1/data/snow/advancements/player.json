@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "install": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "snow:new_player"
+    }
+}

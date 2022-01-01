@@ -1,0 +1,221 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 284,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:meadow"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 159,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:old_growth_pine_taiga"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 128,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:taiga"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 128,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:old_growth_spruce_taiga"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 128,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:windswept_hills"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 128,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:windswept_forest"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 128,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:windswept_gravelly_hills"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 128,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:stony_shore"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:snowy_beach"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:snowy_plains"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:ice_spikes"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:frozen_river"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:frozen_ocean"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:grove"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:snowy_slopes"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:snowy_taiga"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:jagged_peaks"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "position": {
+          "y": {
+            "min": 0,
+            "max": 320
+          }
+        },
+        "biome": "minecraft:frozen_peaks"
+      }
+    }
+  ]
+}
