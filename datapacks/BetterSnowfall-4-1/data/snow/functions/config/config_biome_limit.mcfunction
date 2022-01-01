@@ -1,1 +1,0 @@
-tellraw @s ["",{"text":"[Snowfall only in snowy biomes]","color":"gold","clickEvent":{"action":"run_command","value":"/function snow:config/biome_limit_true"}},{"text":"[Snowfall in all biomes]","color":"gold","clickEvent":{"action":"run_command","value":"/function snow:config/biome_limit_false"}}]
